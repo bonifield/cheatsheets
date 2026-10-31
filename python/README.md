@@ -101,6 +101,10 @@
 	- Usage of Python 3's Requests library to interact with network/web objects
 - python-socket-ssl.py
 	- Send JSON over a TLS-wrapped socket
+- python-sqlalchemy-core.py
+	- Core-style SQLAlchemy examples
+- python-sqlalchemy-orm.py
+	- ORM-style SQLAlchemy examples
 - python-sqlite-id-tracker.py
 	- Classful interactions with a SQLite3 database; does not use SQLAlchemy
 - python-stdin.py
