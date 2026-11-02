@@ -103,10 +103,10 @@
 	- Send JSON over a TLS-wrapped socket
 - python-sqlalchemy-core.py
 	- Core-style SQLAlchemy examples
-- python_sqlalchemy.md
-	- cheatsheet for SQLAlchemy
 - python-sqlalchemy-orm.py
 	- ORM-style SQLAlchemy examples
+- python-sqlalchemy.md
+	- cheatsheet for SQLAlchemy
 - python-sqlite-id-tracker.py
 	- Classful interactions with a SQLite3 database; does not use SQLAlchemy
 - python-stdin.py
